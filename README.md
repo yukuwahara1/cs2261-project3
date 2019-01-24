@@ -1,7 +1,6 @@
 # cs2261-project3
 Board game called Wumpus World
 
-
 	The third project for Objected-Oriented Programming (Java) was making 
 a boardgame called Wumpus World. The board is made by 4x4 squares. There are
 Wumpus that causes stench, PIT that causes breeze, Gold, and a player on the 
